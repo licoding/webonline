@@ -450,6 +450,91 @@ div.slides > div {
 	padding:0;
 	margin:0;
 }
+
+/*-----------------------------------------------------------------------------------*/
+/*	WORK EXPERIENCE
+/*-----------------------------------------------------------------------------------*/
+
+.work-experience-content-left {
+	float:left;
+	display: block;
+	height:250px;
+	width:160px;
+}
+.work-experience-content-right {
+	float:right;
+	display: block;
+	height:250px;
+	width:400px;
+}
+
+.work-experience-content ul {
+	margin-top:13px;
+	padding-left:15px;
+}
+
+.work-experience-content ul li {
+	background: transparent url(style/images/check.jpg) no-repeat 0 0;
+	padding-left:25px;
+	margin-right:20px;
+	margin-bottom:10px;
+	height:13px;
+	display:block;
+	font-size: 1.1em;
+}
+
+.work-experience-content .slides img {
+	background: transparent url(style/images/imgbg.jpg) no-repeat;
+	width:134px;
+	height:134px;
+	padding:10px 11px 44px 11px;
+	margin:0;
+}
+.work-experience-content ul.pagination {
+	display: block;
+	width:170px;
+	height:37px;
+	padding:0;
+	margin:0;
+}
+.work-experience-content ul.pagination li {
+	padding:0;
+	margin:0;
+	background: none;
+	float:left;
+	display:block;
+	width:40px;
+	height:29px;
+	margin-right:6px;
+	background: transparent url(style/images/thbg.jpg) no-repeat;
+	padding:4px;
+	padding-top:3px;
+	padding-bottom:6px;
+}
+.work-experience-content .container {
+	width:170px;
+	height:188px;
+	overflow:hidden;
+	position:relative;
+	cursor:pointer;
+	margin-bottom:5px;
+}
+
+div.slides {
+	position:absolute;
+	top:0;
+	left:0;
+	cursor:default;
+}
+
+div.slides > div {
+	position:absolute;
+	top:0;
+	width:170px;
+	display:none;
+	padding:0;
+	margin:0;
+}
 /*-----------------------------------------------------------------------------------*/
 /*	SOCIAL
 /*-----------------------------------------------------------------------------------*/
