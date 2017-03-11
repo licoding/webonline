@@ -519,22 +519,6 @@ div.slides > div {
 	cursor:pointer;
 	margin-bottom:5px;
 }
-
-div.slides {
-	position:absolute;
-	top:0;
-	left:0;
-	cursor:default;
-}
-
-div.slides > div {
-	position:absolute;
-	top:0;
-	width:170px;
-	display:none;
-	padding:0;
-	margin:0;
-}
 /*-----------------------------------------------------------------------------------*/
 /*	SOCIAL
 /*-----------------------------------------------------------------------------------*/
