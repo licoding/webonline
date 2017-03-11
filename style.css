@@ -450,55 +450,6 @@ div.slides > div {
 	padding:0;
 	margin:0;
 }
-
-/*-----------------------------------------------------------------------------------*/
-/*	PORTFOLIO
-/*-----------------------------------------------------------------------------------*/
-
-#slideshow {
-	overflow: hidden;
-}
-#slideshow ul li {
-	display: block;
-	width:132px;
-	height:109px;
-	background: none;
-	margin: 9px;
-	float: left;
-	background: transparent url(style/images/pthbg.jpg) no-repeat;
-}
-#slideshow ul li img {
-	background:transparent !important;
-}
-#slideshow ul {
-	margin-right: -20px;
-	width: 620px;
-	background: none;
-}
-#slideshow ul li img {
-	padding-top:5px;
-	padding-left:6px;
-	padding-right:6px;
-	padding-bottom:9px;
-	width:120px;
-	height:95px;
-	display: block;
-}
-#portfolio-nav {
-	text-align: center;
-	margin-top: 10px;
-}
-#portfolio-nav a {
-	width:11px;
-	height:11px;
-	display:inline-block;
-	background: url(style/images/pagi.jpg) 0 0;
-	background-repeat: no-repeat;
-	text-indent: -99999px;
-	margin-right:2px;
-	margin-left:2px;
-}
-
 /*-----------------------------------------------------------------------------------*/
 /*	SOCIAL
 /*-----------------------------------------------------------------------------------*/
