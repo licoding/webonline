@@ -2,7 +2,7 @@
 include('SMTPClass.php');
 
 $use_smtp = '0';
-$emailto = 'yourname@yourdomain.com';
+$emailto = 'reach.leiaelliot@gmail.com';
 
 	// retrieve from parameters
 	$emailfrom = isset($_POST["email"]) ? $_POST["email"] : "";
@@ -45,7 +45,7 @@ $emailto = 'yourname@yourdomain.com';
 // Run server-side validation
 function sendEmail($subject, $content, $emailto, $emailfrom) {
 	
-	$from = $emailfrom;
+	$from = $emailfrom;reach.leiaelliot@gmail.com
 	$response_sent = 'Thank you. Your messsage has been received.';
 	$response_error = 'Error. Please try again.';
 	$subject =  filter($subject);
