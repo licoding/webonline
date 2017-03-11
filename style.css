@@ -541,12 +541,6 @@ div.slides > div {
 /*	CONTACT
 /*-----------------------------------------------------------------------------------*/
 
-.contact-content-left {
-	float:left;
-	width:300px;
-	height:290px;
-	margin-right:20px;
-}
 .contact-content-right {
 	width:260px;
 	height:240px;
